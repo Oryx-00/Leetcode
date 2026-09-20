@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Oryx-00/Leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Oryx-00/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
@@ -39,4 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Oryx-00/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Oryx-00/Leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Oryx-00/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
