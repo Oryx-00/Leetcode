@@ -41,8 +41,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Oryx-00/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Oryx-00/Leetcode/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/Oryx-00/Leetcode/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Oryx-00/Leetcode/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Oryx-00/Leetcode/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Oryx-00/Leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Oryx-00/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
