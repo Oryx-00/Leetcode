@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Oryx-00/Leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Oryx-00/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0326-power-of-three](https://github.com/Oryx-00/Leetcode/tree/master/0326-power-of-three) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Oryx-00/Leetcode/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Oryx-00/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
